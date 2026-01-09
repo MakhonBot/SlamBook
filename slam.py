@@ -8,6 +8,7 @@ while True:
     dctnr["date of Birth"] = input("Date of birth? dd/mm/yy...")
     dctnr["Color"] = input("Favorite color?...")
     dctnr["Message"] = input("Leave a message!...")
+    dctnr["Annoying?"] = input("Am I annoying? yes/no...")
 
     slambook.append(dctnr)
 
